@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þ´Ëßýÿÿÿÿ
+R
+java:S1610"5Convert the abstract class "Pizza" into an interface.(»Ø™›8°¢š¹­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¸Ž8äïœ¹­1
+>
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ8äïœ¹­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(î–Æ–ùÿÿÿÿ8ÏÃž¹­1
+>
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ8êÇ¹­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÔµÆ„üÿÿÿÿ8ÏÃž¹­1
+>
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ8êÇ¹­1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(©å­±8ÐÃž¹­1
+>
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ8î“ž¹­1
